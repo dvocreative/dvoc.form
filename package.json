@@ -1,0 +1,19 @@
+{
+  "name": "dvoc.form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/dvoc.form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dvodonnell@github.com/dvocreative/dvoc.form.git"
+  },
+  "author": "Dan O'Donnell <dan@dvoc.ca> (http://dvoc.ca)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvocreative/dvoc.form/issues"
+  },
+  "homepage": "https://github.com/dvocreative/dvoc.form#readme"
+}
